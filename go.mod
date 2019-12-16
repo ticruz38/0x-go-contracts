@@ -1,4 +1,4 @@
-module github.com/ticruz38/0x-abi-wrapper
+module github.com/ticruz38/0x-go-contracts
 
 go 1.13
 
